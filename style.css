@@ -98,6 +98,10 @@ nav .container {
     border: none;
 }
 
+.hero-text p {
+    color: #c1c1c1;
+}
+
 /* Cards */
 
 .info-cards {
